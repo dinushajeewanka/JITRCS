@@ -1,0 +1,80 @@
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.staticwebassets.endpoints.json
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.exe
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.deps.json
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.runtimeconfig.json
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.pdb
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\scopedcss\bundle\BE_EmployeeManagement.styles.css
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_Emplo.0B0E8213.Up2Date
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\refint\BE_EmployeeManagement.dll
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.pdb
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\ref\BE_EmployeeManagement.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\appsettings.json
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.staticwebassets.endpoints.json
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.exe
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.deps.json
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.runtimeconfig.json
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\BE_EmployeeManagement.pdb
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.csproj.AssemblyReference.cache
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.AssemblyInfoInputs.cache
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.AssemblyInfo.cs
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\scopedcss\bundle\BE_EmployeeManagement.styles.css
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_Emplo.0B0E8213.Up2Date
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\refint\BE_EmployeeManagement.dll
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.pdb
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\BE_EmployeeManagement.genruntimeconfig.cache
+C:\Dinusha Jeewanka\Novalabs Projects\My Projects\BE_EmployeeManagement\BE_EmployeeManagement\obj\Debug\net8.0\ref\BE_EmployeeManagement.dll

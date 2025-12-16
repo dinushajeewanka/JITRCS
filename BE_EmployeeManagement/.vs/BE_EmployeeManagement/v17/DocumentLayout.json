@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|c:\\dinusha jeewanka\\novalabs projects\\my projects\\be_employeemanagement\\be_employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3EDA0A3-9D02-444A-BBDE-DE4058792519}|BE_EmployeeManagement\\BE_EmployeeManagement.csproj|solutionrelative:be_employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "BE_EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:59:34.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\appsettings.json",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "BE_EmployeeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T08:45:41.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "BE_EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAswAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:07:05.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "BE_EmployeeManagement\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAswAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:06:50.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "BE_EmployeeManagement\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:05:23.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "BE_EmployeeManagement\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAD4v6AAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:05:08.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "BE_EmployeeManagement\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:04:50.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "BE_EmployeeManagement\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:04:32.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "BE_EmployeeManagement\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:04:12.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\DTOs\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\DTOs\\DepartmentDto.cs",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\DTOs\\DepartmentDto.cs",
+              "RelativeToolTip": "BE_EmployeeManagement\\DTOs\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:04:01.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "BE_EmployeeManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:03:47.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "BE_EmployeeManagement\\Models\\Department.cs",
+              "ToolTip": "C:\\Dinusha Jeewanka\\Novalabs Projects\\My Projects\\BE_EmployeeManagement\\BE_EmployeeManagement\\Models\\Department.cs",
+              "RelativeToolTip": "BE_EmployeeManagement\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:03:22.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
